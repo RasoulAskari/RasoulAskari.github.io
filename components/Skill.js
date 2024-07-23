@@ -1,7 +1,11 @@
-export default function Header() {
+import Styles from "../styles/Style.module.css";
+
+export default function Skill() {
   return (
     <>
-      <h1>Skill</h1>
+      <div className={`${Styles.skillContainer} bg-dark container`}>
+        
+      </div>
     </>
   );
 }
