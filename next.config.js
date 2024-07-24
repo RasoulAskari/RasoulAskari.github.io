@@ -3,9 +3,9 @@
  */
 const nextConfig = {
   output: "export",
-  distDir: "pages",
+  distDir: "dist",
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
 };
 
