@@ -1,5 +1,4 @@
 import styles from "../styles/Style.module.css";
-import Image from "next/image";
 
 export default function HeaderBg() {
   return (
